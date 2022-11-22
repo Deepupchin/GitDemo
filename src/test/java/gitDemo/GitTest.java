@@ -7,6 +7,8 @@ public class GitTest {
 
 		
 		System.out.println("git code added");
+		
+		System.out.println("want to add untracked as well");
 	}
 
 }
